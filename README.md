@@ -29,4 +29,3 @@ Soy una profesional apasionada y polivalente con una sólida trayectoria en el s
 
 ## 📫 ¿Cómo contactarme?
 * **Correo electrónico:** rosalpanabelys@gmail.com
-* **LinkedIn:** 
