@@ -1,5 +1,5 @@
 
--# ¡Hola, soy Anabelys Jose Rosal Patiño! 👋
+# ¡Hola, soy Anabelys Jose Rosal Patiño! 👋
 
 Soy una profesional apasionada y polivalente con una sólida trayectoria en el sector educativo, administrativo y de atención al cliente. Actualmente, me encuentro en constante aprendizaje y expansión hacia el ámbito tecnológico, combinando mi experiencia en gestión, coordinación y mis conocimientos en **Control de Calidad (QA)** con herramientas digitales.
 
